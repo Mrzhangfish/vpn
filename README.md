@@ -1,7 +1,6 @@
 # vpn
 翻墙vpn梯子，翻墙软件，翻墙代理，VPN
 
-
 免费翻墙梯子vpn 免费机场 免费vpn ss ssr v2ray trojan 科学上网 gfw 中国防火墙 防火长城 shadowsocks 自由上网 网络移民 免费翻墙软件 youtube 油管 脸书 推特 twitter facebook 
 
 提供 免费翻墙梯子vpn 请联系客服微信： mrzhangfish 添加请备注"github"
@@ -18,7 +17,8 @@ VPN
 
 国际互联网  奈飞 HBO 
 
-免费节点 免费ssr节点 免费v2ray节点 免费trojan节点 免费ss节点  外贸  跨境电商  英美剧 日韩剧 影视剧 手游国际服 美服 韩服 日服 欧服 游戏加速器 手游加速器  端游  主机游戏 网络加速器 
+免费节点 免费ssr节点 免费v2ray节点 免费trojan节点 免费ss节点  外贸  跨境电商  英美剧 日韩剧 影视剧 手游国际服 美服 韩服 日服 欧服 游戏加速器 手游加速器  端游  主机游戏 网络加速器 翻墙路由器 外贸路由器 路由器翻墙 openwrt 梅林固件 老毛子固件 
+高恪固件
 
 shadowrocket shadowsocksr clash v2rayN igniter surfboard Pharos Pro 苹果设备 安卓设备 pc mac ipad平板等等 路由器 软路由 硬路由 硬改路由  基本支持全平台系统 4k 8k 免费机场节点 订阅地址 Netflix 一切只为看片。 
 
